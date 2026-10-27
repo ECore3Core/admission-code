@@ -1,0 +1,15 @@
+{
+  "README.md": "03aaad1fa074e8461c04a1b36aa91314503c6e921839e2bdc260da8785b7983c",
+  "BENCHMARK.md": "095a59727d470b75c0b2edd56111532ea480a9554c3f72bb975a768947909e57",
+  "DATA_AUDIT.md": "f019633da19fb7eb204271ab69b293216568f481cb3c2900c54c1417b883d2de",
+  ".gitignore": "68a56435ff25311c1114df7d6605bd9a48c85e55c6deb7962536ae4c43e1d16e",
+  "requirements-audit.txt": "06d28d69e958deafb09f0a44fcae9b548f15e4debc14ebc39aad5f0934856fbf",
+  "university_admissions.py": "80d96983497ab41d896662d33de47c549fae80e1c587abc8f04990328887c889",
+  "ranking_index.py": "58cc550bfd7577dc94e39da6531423b5661a1d89b7add2ad7d9b8367d7877539",
+  "benchmark_admissions.py": "ac0cf6c1a377244037f8819d4ab821c75b4db390632f63bf95ad071ee9093eac",
+  "audit_excel.py": "c3f94afc62908effcf2fc70bd1f6949116ed1d7a08568af54454233306b9eb3b",
+  "test_university_admissions.py": "efa461b9f515a9a9e657f4eebcb3c2ed9330a6d197e88388b6cbc514f92bba5c",
+  "test_baselines.py": "116abfeff5adb3dd02bde85ecde67f58ced57cf330535c3b6f61539bd7925e44",
+  "example.json": "e7cc404cce55977d9e5a2e22e1661e9125736bfd06c38a9fed88a4861d3a73fa",
+  ".gitattributes": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data/
+private/
+results/
+local-results/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.zip
+input.json
+audit.json
+local_excel_audit*.json
